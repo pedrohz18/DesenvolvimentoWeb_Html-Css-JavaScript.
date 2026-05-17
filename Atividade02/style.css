@@ -1,0 +1,41 @@
+/* Estilizações da Atividade 2 */
+h1,h2,h3,h4{
+    
+    text-align: center;
+    color: #009C2B;   
+}
+
+h4 a {
+    color: inherit;
+}
+body {
+    background-color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}   
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#l {
+    text-align: center;
+}
+
+ul {
+    list-style-type: "📦";
+}
+
+.box-model {
+  margin: 20px;
+  padding: 18px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #333333;
+}
